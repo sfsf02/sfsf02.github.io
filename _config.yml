@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: "Wanted: SafSec" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Think like an attacker. Build like a defender. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://sfsf02.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: sfsf02 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: SafSec
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://github-production-user-asset-6210df.s3.amazonaws.com/73238463/548143261-842565a3-6fa4-4302-bd41-71f7272bf279.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260211T094457Z&X-Amz-Expires=300&X-Amz-Signature=308474e1c4876f56a2c8935f67213c895a90dfd7db6aad06d30ac2201247d200&X-Amz-SignedHeaders=host"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
