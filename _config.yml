@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github-production-user-asset-6210df.s3.amazonaws.com/73238463/548143261-842565a3-6fa4-4302-bd41-71f7272bf279.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260211T094457Z&X-Amz-Expires=300&X-Amz-Signature=308474e1c4876f56a2c8935f67213c895a90dfd7db6aad06d30ac2201247d200&X-Amz-SignedHeaders=host"
+avatar: "assets/img/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
