@@ -1,43 +1,24 @@
-# Chirpy Starter
+# 🏴‍☠️ Wanted: SafSec
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+> **Welcome to my cybersecurity blog — a space where curiosity meets practical security knowledge.**
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+I am a cybersecurity enthusiast passionate about understanding **how systems work**, **how they fail**, and **how they can be secured**.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+My journey focuses on **ethical hacking**, **vulnerability research**, and **hands-on experimentation** with real-world security concepts. I believe cybersecurity is best learned by building, breaking, and improving systems responsibly.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+---
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+###  What I Share
+Through this blog, I document my process:
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+*  **Practical Learning:** Notes, walkthroughs, and security concepts explained simply.
+*  **The Lab:** Hands-on experiments, labs, and CTF insights.
+*  **The Toolkit:** Methodologies, tools, and techniques used in modern security testing.
+*  **The Path:** My personal roadmap and lessons learned from the field.
 
-## Usage
+---
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+###  My Goal
+To continuously grow as a security researcher while helping others who are starting—or advancing—their own cybersecurity journey. This blog documents the challenges, the discoveries, and the skills developed along the way.
 
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+*Cybersecurity is not just about hacking — it is about thinking critically, learning continuously, and building systems that are safer for everyone.*
