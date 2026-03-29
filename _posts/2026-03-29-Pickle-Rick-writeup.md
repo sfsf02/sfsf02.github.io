@@ -18,6 +18,7 @@ Welcome back, fellow hackers! Today, we’re tackling a super fun machine based 
 Alright, now that you're caught up, let's dive in. 
 
 ### The Mission Briefing
+If you want to play along and try to hack this box yourself, you can find the room here: [TryHackMe - Pickle Rick](https://tryhackme.com/room/picklerick){:target="_blank"}
 
 First, let's look at the description of the machine:
 
