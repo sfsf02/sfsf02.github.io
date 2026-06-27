@@ -4,7 +4,7 @@ layout: post
 title: "HTB Starting Point: Purr-fecting the Basics with Meow"
 date: 2026-06-21 15:21:25 +0200
 categories: [CTF , Hack The Box]
-tags: [HTB, Starting Point, Beginner, Nmap, Telnet, Reconnaissance]
+tags: [htb, starting-point, beginner, nmap, telnet, reconnaissance]
 excerpt: "A beginner-friendly walkthrough of Hack The Box's Meow machine, covering basic enumeration, Telnet access, and the core cybersecurity concepts behind each step."
 ---
 
