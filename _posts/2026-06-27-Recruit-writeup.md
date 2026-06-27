@@ -220,7 +220,7 @@ a' UNION SELECT 1,2,3,group_concat(column1,':',column2 SEPARATOR '<br>') FROM ta
 
 With those administrator credentials successfully extracted via SQLi, I logged out of the HR account, logged back into the portal as the Administrator, and captured the root flag! 
 
-**[Insert screenshot of login as admin]**![login as admin.](https://safsecmedia.blob.core.windows.net/images/THM/Recruit/LoginAdmin.png){: .shadow }
+![login as admin.](https://safsecmedia.blob.core.windows.net/images/THM/Recruit/LoginAdmin.png){: .shadow }
 
 ---
 
